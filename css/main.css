@@ -86,9 +86,9 @@ body {
       .reviews-news-block a {
         text-decoration: none;
         color: #000; }
-      .reviews-news-block_img img {
+      .reviews-news-block_img {
         max-width: 100%; }
-      .reviews-news-block_heading h3 {
+      .reviews-news-block_heading {
         font-family: 'Playfair Display', serif;
         font-size: 23px;
         font-weight: 900;
@@ -96,7 +96,7 @@ body {
         margin-bottom: 11px;
         -webkit-transition: 0.2s;
         transition: 0.2s; }
-      .reviews-news-block_description p {
+      .reviews-news-block_description {
         max-width: 100%;
         padding-right: 16px;
         margin: 0; }
